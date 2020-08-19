@@ -25,6 +25,7 @@ div li + li {
 button {
   background: #7159c1;
   color: #fff;
+  border-radius:4px ;
   border: 0;
   padding: 10px 15px;
   cursor: pointer;
